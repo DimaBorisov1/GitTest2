@@ -1,0 +1,14 @@
+﻿{
+  "Descriptor": {
+    "UId": "f8612622-6507-44c6-879c-054c09e67c16",
+    "Name": "GitTest",
+    "ModifiedOnUtc": "\/Date(1659695931000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "d17204fd-8204-4486-9b5b-a12176aa7c89",
+        "Name": "BorisovPackage"
+      }
+    ]
+  }
+}
